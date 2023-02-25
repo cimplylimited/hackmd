@@ -15,3 +15,10 @@ Work and costs are already done. So this is a retroactive request.
 Details about work can be found at http://payhistory.lex.clinic on lines 17 (student) and 20 (lawyer). 
 
 Though not included in this proposal, DClark is working on converting the lawyer work she did for this job into a syllabus!
+
+## Trademark Prosposal Details
+
++ [insert links to forms being filed] <br />
++ [insert invoice details for DClark work rendered] <br />
++ [insert invoice details for students work rendered] <br />
++ [insert invoice details from trademark registration filing]
